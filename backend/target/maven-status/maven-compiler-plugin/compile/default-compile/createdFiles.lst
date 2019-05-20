@@ -1,0 +1,5 @@
+com\ecomm\backend\App.class
+com\ecomm\model\Category.class
+com\ecomm\dao\CategoryDAOImpl.class
+com\ecomm\config\DBConfig.class
+com\ecomm\dao\CategoryDAO.class
